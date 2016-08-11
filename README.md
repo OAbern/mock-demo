@@ -1,18 +1,18 @@
-# MockitoºÍPowerMockµÄDEMO
+# Mockitoå’ŒPowerMockçš„DEMO
 
-**ËµÃ÷**
-ÏîÄ¿ÖĞ²¿·ÖÊ¾ÀıÖ»ÊÇÎªÁË·½±ãÑ§Ï°¿ò¼Ü¶ø±àĞ´µÄÊ¾Àı³ÌĞò£¬Òò´Ë¿ÉÄÜ²¢²»ÊÊÓÃÓÚÊµ¼Ê´úÂë±àĞ´µÄ²âÊÔÂß¼­£¡
+## è¯´æ˜
+é¡¹ç›®ä¸­éƒ¨åˆ†ç¤ºä¾‹åªæ˜¯ä¸ºäº†æ–¹ä¾¿å­¦ä¹ æ¡†æ¶è€Œç¼–å†™çš„ç¤ºä¾‹ç¨‹åºï¼Œå› æ­¤å¯èƒ½å¹¶ä¸é€‚ç”¨äºå®é™…ä»£ç ç¼–å†™çš„æµ‹è¯•é€»è¾‘ï¼
 
-±ÉÈËµÄÑ§Ï°±Ê¼ÇµØÖ·
-[MockitoÑ§Ï°±Ê¼Ç](https://www.zybuluo.com/Bern/note/462783)
-[PowerMockÑ§Ï°±Ê¼Ç](https://www.zybuluo.com/Bern/note/464228)
+é„™äººçš„å­¦ä¹ ç¬”è®°åœ°å€<br/>
+[Mockitoå­¦ä¹ ç¬”è®°](https://www.zybuluo.com/Bern/note/462783)<br/>
+[PowerMockå­¦ä¹ ç¬”è®°](https://www.zybuluo.com/Bern/note/464228)<br/>
 
-DEMOÖĞ²¿·ÖÊ¾ÀıÀ´×ÔÓÚÒÔÏÂÁ´½Ó£º(²¿·ÖÓĞ¸Ä¶¯)
-[Mockito¹ÙÍø](http://mockito.org/)
-[Mockito On Github](https://github.com/mockito/mockito)
-[Mockito Dzone Reference Card](https://dzone.com/refcardz/mockito)
-[Introduction to mockito](http://stackoverflow.com/documentation/mockito/2055/introduction-to-mockito#t=201608090656397575575)
-
-[PowerMock On Github](https://github.com/jayway/powermock)
-[PowerMock WIKI](https://github.com/jayway/powermock/wiki/MockitoUsage#how-to-mock-construction-of-new-objects)
-[PowerMock¼ò½é](http://www.ibm.com/developerworks/cn/java/j-lo-powermock/)
+DEMOä¸­éƒ¨åˆ†ç¤ºä¾‹å‚è€ƒè‡ªä»¥ä¸‹é“¾æ¥ï¼š(éƒ¨åˆ†æœ‰æ”¹åŠ¨)<br/>
+[Mockitoå®˜ç½‘](http://mockito.org/)<br/>
+[Mockito On Github](https://github.com/mockito/mockito)<br/>
+[Mockito Dzone Reference Card](https://dzone.com/refcardz/mockito)<br/>
+[Introduction to mockito](http://stackoverflow.com/documentation/mockito/2055/introduction-to-mockito#t=201608090656397575575)<br/>
+<br/>
+[PowerMock On Github](https://github.com/jayway/powermock)<br/>
+[PowerMock WIKI](https://github.com/jayway/powermock/wiki/MockitoUsage#how-to-mock-construction-of-new-objects)<br/>
+[PowerMockç®€ä»‹](http://www.ibm.com/developerworks/cn/java/j-lo-powermock/)
